@@ -24,6 +24,14 @@ Puedes revisar mis proyectos en este perfil. Algunos de ellos incluyen:
 
 - 📊 Análisis de Reseñas Digitales
 - 🐍 Análisis del Sector de Telecomunicaciones en Argentina
+
+Correo electrónico:
+
+elvisbernuy1017@gmail.com
+
+Repositorio github:
+
+https://github.com/ebernuy88
   
 
 ## 🤝 ¿Colaboramos?
