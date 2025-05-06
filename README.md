@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Elvis
 
-<!--
-**ebernuy88/ebernuy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Administrador de Empresas** con 8 años de experiencia en **gestión de procesos**, **liderazgo de equipos** y **mejora continua**, principalmente en el sector educativo.  
+📊 Recientemente completé un **bootcamp en Ciencia de Datos**, consolidando mis habilidades técnicas y reforzando mi pasión por los datos.
 
-Here are some ideas to get you started:
+## 🚀 En transición hacia el análisis de datos
+He decidido enfocar mi carrera en el análisis de datos, combinando mi experiencia en gestión con herramientas analíticas para generar **valor estratégico basado en datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente busco oportunidades como:
+
+- 🧠 **Data Analyst Jr.**
+- 📈 **Business Intelligence Analyst**
+
+## 🛠️ Tecnologías y habilidades
+
+- **Lenguajes:** Python, SQL  
+- **Análisis de Datos:** Análisis exploratorio (EDA), limpieza y transformación de datos  
+- **Visualización:** Power BI, Matplotlib, Seaborn  
+- **Herramientas:** Excel avanzado, Jupyter Notebooks
+
+## 📂 Proyectos destacados
+
+Puedes revisar mis proyectos en este perfil. Algunos de ellos incluyen:
+
+- 📊 Análisis de Reseñas Digitales
+- 🐍 Análisis del Sector de Telecomunicaciones en Argentina
+  
+
+## 🤝 ¿Colaboramos?
+
+Estoy abierto a colaboraciones, mentorías o recomendaciones. Si quieres contactarme:
+
+📧 elvisbernuy1017@gmail.com
+🔗 https://github.com/ebernuy88
